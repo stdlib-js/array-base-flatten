@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-flatten",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Flatten an n-dimensional nested array.",
   "license": "Apache-2.0",
   "author": {
