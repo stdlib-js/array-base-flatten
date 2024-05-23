@@ -187,6 +187,12 @@ out = flatten( x, [ 2, 2, 1, 2, 2 ], true );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-base/flatten-by`][@stdlib/array/base/flatten-by]</span><span class="delimiter">: </span><span class="description">flatten an n-dimensional nested array according to a callback function.</span>
+
 </section>
 
 <!-- /.related -->
@@ -262,6 +268,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-base-flatten/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-flatten/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/base/flatten-by]: https://github.com/stdlib-js/array-base-flatten-by
+
+<!-- </related-links> -->
 
 </section>
 
