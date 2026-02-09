@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/array-base-zeros": "^0.2.3",
-    "@stdlib/blas-ext-base-grev": "^0.2.1",
+    "@stdlib/blas-ext-base-grev": "^0.2.2",
     "@stdlib/ndarray-base-numel": "^0.2.3",
     "@stdlib/ndarray-base-shape2strides": "^0.2.3",
     "@stdlib/ndarray-base-vind2bind": "^0.2.3",
@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "@stdlib/array-base-filled": "^0.2.3",
-    "@stdlib/array-base-zero-to": "^0.2.1",
+    "@stdlib/array-base-zero-to": "^0.2.2",
     "@stdlib/array-float64": "^0.2.3",
     "@stdlib/assert-has-own-property": "^0.2.3",
     "@stdlib/assert-is-array": "^0.2.3",
